@@ -2,6 +2,11 @@
 
 A modern, feature-rich QR code generator built with React and Mantine UI. Generate, customize, and download QR codes with ease.
 
+Demo: https://69033b3fc070d600d9675a96--comfy-fairy-11b2c7.netlify.app/
+
+Preview: 
+!()[https://raw.githubusercontent.com/yateendra/QR-Code-Generator/refs/heads/main/preview.png]
+
 ![QR Code Generator](https://img.shields.io/badge/React-18.2-blue) ![Mantine](https://img.shields.io/badge/Mantine-7.3-purple) ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Features
@@ -168,5 +173,6 @@ If you encounter any issues or have questions, please file an issue on the GitHu
 ---
 
 Made with ❤️ using React and Mantine
+
 
 
